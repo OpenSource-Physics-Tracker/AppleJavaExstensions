@@ -1,0 +1,91 @@
+com/apple/eawt/event/GesturePhaseEvent.java
+ com.apple.eawt.event.GesturePhaseEvent
+com/apple/eawt/QuitHandler.java
+ com.apple.eawt.QuitHandler
+com/apple/eawt/event/GestureAdapter.java
+ com.apple.eawt.event.GestureAdapter
+com/apple/eawt/SystemSleepListener.java
+ com.apple.eawt.SystemSleepListener
+com/apple/eawt/AppEventListener.java
+ com.apple.eawt.AppEventListener
+com/apple/eawt/ApplicationEvent.java
+ com.apple.eawt.ApplicationEvent
+com/apple/eawt/AboutHandler.java
+ com.apple.eawt.AboutHandler
+com/apple/eawt/PreferencesHandler.java
+ com.apple.eawt.PreferencesHandler
+com/apple/eawt/ApplicationListener.java
+ com.apple.eawt.ApplicationListener
+com/apple/eawt/event/GestureUtilities.java
+ com.apple.eawt.event.GestureUtilities
+com/apple/eawt/FullScreenListener.java
+ com.apple.eawt.FullScreenListener
+com/apple/eawt/Application.java
+ com.apple.eawt.Application
+com/apple/eawt/event/RotationListener.java
+ com.apple.eawt.event.RotationListener
+com/apple/eawt/OpenFilesHandler.java
+ com.apple.eawt.OpenFilesHandler
+com/apple/eawt/QuitStrategy.java
+ com.apple.eawt.QuitStrategy
+com/apple/eawt/ApplicationAdapter.java
+ com.apple.eawt.ApplicationAdapter
+com/apple/eawt/event/RotationEvent.java
+ com.apple.eawt.event.RotationEvent
+com/apple/eawt/AppHiddenListener.java
+ com.apple.eawt.AppHiddenListener
+com/apple/concurrent/Dispatch.java
+ com.apple.concurrent.Dispatch
+ com.apple.concurrent.Dispatch$Priority
+com/apple/eawt/QuitResponse.java
+ com.apple.eawt.QuitResponse
+com/apple/eawt/event/SwipeListener.java
+ com.apple.eawt.event.SwipeListener
+com/apple/eawt/FullScreenUtilities.java
+ com.apple.eawt.FullScreenUtilities
+com/apple/eawt/PrintFilesHandler.java
+ com.apple.eawt.PrintFilesHandler
+com/apple/eawt/AppEvent.java
+ com.apple.eawt.AppEvent
+ com.apple.eawt.AppEvent$AboutEvent
+ com.apple.eawt.AppEvent$AppForegroundEvent
+ com.apple.eawt.AppEvent$AppHiddenEvent
+ com.apple.eawt.AppEvent$AppReOpenedEvent
+ com.apple.eawt.AppEvent$FilesEvent
+ com.apple.eawt.AppEvent$FullScreenEvent
+ com.apple.eawt.AppEvent$OpenFilesEvent
+ com.apple.eawt.AppEvent$OpenURIEvent
+ com.apple.eawt.AppEvent$PreferencesEvent
+ com.apple.eawt.AppEvent$PrintFilesEvent
+ com.apple.eawt.AppEvent$QuitEvent
+ com.apple.eawt.AppEvent$ScreenSleepEvent
+ com.apple.eawt.AppEvent$SystemSleepEvent
+ com.apple.eawt.AppEvent$UserSessionEvent
+com/apple/eawt/UserSessionListener.java
+ com.apple.eawt.UserSessionListener
+com/apple/eawt/ApplicationBeanInfo.java
+ com.apple.eawt.ApplicationBeanInfo
+com/apple/eawt/event/SwipeEvent.java
+ com.apple.eawt.event.SwipeEvent
+com/apple/eawt/ScreenSleepListener.java
+ com.apple.eawt.ScreenSleepListener
+com/apple/eio/FileManager.java
+ com.apple.eio.FileManager
+com/apple/eawt/event/GesturePhaseListener.java
+ com.apple.eawt.event.GesturePhaseListener
+com/apple/eawt/event/MagnificationEvent.java
+ com.apple.eawt.event.MagnificationEvent
+com/apple/eawt/event/GestureListener.java
+ com.apple.eawt.event.GestureListener
+com/apple/eawt/FullScreenAdapter.java
+ com.apple.eawt.FullScreenAdapter
+com/apple/eawt/event/GestureEvent.java
+ com.apple.eawt.event.GestureEvent
+com/apple/eawt/CocoaComponent.java
+ com.apple.eawt.CocoaComponent
+com/apple/eawt/OpenURIHandler.java
+ com.apple.eawt.OpenURIHandler
+com/apple/eawt/event/MagnificationListener.java
+ com.apple.eawt.event.MagnificationListener
+com/apple/eawt/AppForegroundListener.java
+ com.apple.eawt.AppForegroundListener
